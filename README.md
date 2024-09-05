@@ -32,14 +32,16 @@ $ npm run test:cov
 
 ## Stay in touch
 
-- Author - [Louai Benkedda](https://twitter.com/kammysliwiec)
+- Author - [Louai Benkedda](https://www.linkedin.com/in/louai-siradj-eddine-benkedda/)
 
 ## License
 
 E-Shop is [MIT licensed](https://github.com/benkedda-louai/e-commerce/blob/main/LICENSE).
 
 This project is a e-commerce platform which the user can create account to buy or sell products visit the link to check the demo
-<a href="test.com" />
+
+<!-- <a href="test.com" /> -->
+
 to run this project you should have
 NODE JS
 DOCKER
